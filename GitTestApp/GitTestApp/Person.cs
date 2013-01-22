@@ -20,5 +20,10 @@ namespace GitTestApp
 		{
 			return this.FirstName + " " + this.LastName + " was born on " + this.DateOfBirth.ToShortDateString();
 		}
+
+		public string Name()
+		{
+			return this.FirstName + " " + this.LastName;
+		}
 	}
 }
