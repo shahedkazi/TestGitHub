@@ -1,0 +1,5 @@
+c:\documents and settings\kazis\my documents\visual studio 2010\Projects\GitTestApp\GitTestApp\bin\Debug\GitTestApp.exe
+c:\documents and settings\kazis\my documents\visual studio 2010\Projects\GitTestApp\GitTestApp\bin\Debug\GitTestApp.pdb
+c:\documents and settings\kazis\my documents\visual studio 2010\Projects\GitTestApp\GitTestApp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\kazis\my documents\visual studio 2010\Projects\GitTestApp\GitTestApp\obj\x86\Debug\GitTestApp.exe
+c:\documents and settings\kazis\my documents\visual studio 2010\Projects\GitTestApp\GitTestApp\obj\x86\Debug\GitTestApp.pdb
