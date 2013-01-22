@@ -13,5 +13,10 @@ namespace GitTestApp
 			this.FirstName = first;
 			this.LastName = last;
 		}
+
+		public override string  ToString()
+		{
+			return this.FirstName + " " + this.LastName;
+		}
 	}
 }
