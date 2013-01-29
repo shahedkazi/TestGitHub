@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace GitTestApp
 {
-	class Person
+	class Person : GitTestApp.IPerson
 	{
 		public string FirstName, LastName;
 		public DateTime DateOfBirth;
