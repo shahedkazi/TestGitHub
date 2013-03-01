@@ -9,5 +9,6 @@ namespace GitTestApp
 	{
 		public string Name, Address;
 		public DateTime DateOpened;
+        public int CompanyId;
 	}
 }
