@@ -11,5 +11,6 @@ namespace GitTestApp
 		public DateTime DateOpened;
         public int CompanyId;
         public string ABN;
+        public int NoOfEmployee;
 	}
 }
