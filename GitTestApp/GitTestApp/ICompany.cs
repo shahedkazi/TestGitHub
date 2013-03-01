@@ -7,8 +7,12 @@ namespace GitTestApp
         string DateOpened();
         string Address();
 		string ToString();
+//<<<<<<< HEAD
         int CompanyId();
-        string Abn();
+//        string Abn();
         int NoOfEmployee();
+//=======
+        int Abn();
+//>>>>>>> origin/firstBranch
 	}
 }

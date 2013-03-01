@@ -10,7 +10,11 @@ namespace GitTestApp
 		public string Name, Address;
 		public DateTime DateOpened;
         public int CompanyId;
-        public string ABN;
+//<<<<<<< HEAD
+//        public string ABN;
         public int NoOfEmployee;
+//=======
+        public int Abn;
+//>>>>>>> origin/firstBranch
 	}
 }
