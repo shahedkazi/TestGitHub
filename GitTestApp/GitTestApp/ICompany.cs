@@ -7,5 +7,6 @@ namespace GitTestApp
         string DateOpened();
         string Address();
 		string ToString();
+        int Abn();
 	}
 }
