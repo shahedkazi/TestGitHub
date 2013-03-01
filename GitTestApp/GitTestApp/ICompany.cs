@@ -8,5 +8,7 @@ namespace GitTestApp
         string Address();
 		string ToString();
         int CompanyId();
+        string Abn();
+        int NoOfEmployee();
 	}
 }
